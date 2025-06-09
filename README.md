@@ -67,6 +67,7 @@
 - `Ghost_Leg/main.py`：實現「鬼腳圖」遊戲或隨機分組分配，常用於抽籤或分隊。
 - `Pygame/main.py`：利用 pygame 製作的遊戲或互動多媒體程式，結合多張圖片資源，適合學習遊戲開發。
 - `Stock_Prediction/Download_data.py, main.py`：用於下載股票資料並進行股價預測，結合資料分析與機器學習。
+- good
 - `Weather/Weather_api.py`：查詢天氣資訊，通常會調用天氣 API 並顯示結果。
 
 這些 Python 程式涵蓋了多媒體、遊戲、資料分析、API 應用等多種主題，適合學習不同領域的 Python 實作。
